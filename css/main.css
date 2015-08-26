@@ -1,0 +1,122 @@
+/*********************************
+GENERAL
+**********************************/
+
+body {
+	font-family: 'Open Sans' sans-serif;
+}
+
+#wrapper {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 5%;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+img {
+  max-width: 100%;
+}
+
+/*********************************
+HEADER
+**********************************/
+
+header {
+	text-align: center;
+	width: 100%;
+	height: 300px;
+	background-color: #EFF4F3;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#logo {
+  margin: 0;
+  height: 125px;
+  width: 125px;
+  padding-top: 30px;
+}
+
+header h1 {
+	font-size: 1.8rem;
+	text-transform: uppercase;
+	color: #456EB5;
+}
+
+
+/*********************************
+DIV CONTAINER STYLE
+**********************************/
+
+section {
+	padding-top: 50px;
+}
+
+/*********************************
+BUTTON STYLE
+**********************************/
+
+.get-files {
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: 'Open Sans' sans-serif;
+  color: #ffffff;
+  font-size: 16px;
+  background: #00A15E;
+  margin-top: 50px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.get-files:hover {
+  background: #049056;
+  text-decoration: none;
+}
+
+/*********************************
+TABLE STYLES
+**********************************/
+
+.drive-content table {
+  max-width: 960px;
+  margin: 10px auto;
+  padding-top: 50px;
+}
+
+.drive-content table caption {
+  font-size: 1.6em;
+  font-weight: 400;
+  padding: 10px 0;
+}
+
+.drive-content table thead th {
+  font-weight: 400;
+  background: #ED7023;
+  color: #FFF;
+}
+
+.drive-content table tr {
+  background: #f4f7f8;
+  border-bottom: 1px solid #FFF;
+  margin-bottom: 5px;
+}
+
+.drive-content table th,
+.drive-content table td {
+  text-align: center;
+  padding: 20px;
+  font-weight: 300;
+  position: relative;
+}
+
+
+
+
+
+
